@@ -15,7 +15,7 @@
 <br>
 
 <div align="center" style="margin-top: 15px;">
-  <img alt="home" title="Home" src=".github/grafico3.png"/>
+  <img alt="home" title="Home" src=".github/graficos3.png"/>
 </div>
 
 <br>
