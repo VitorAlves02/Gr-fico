@@ -3,19 +3,19 @@
 <br>
 
 <div align="center" style="margin-top: 15px;">
-  <img alt="home" title="Home" src=".github/grafico1.png"/>
+  <img alt="graficos1" title="Graficos1" src=".github/grafico1.png"/>
 </div>
 
 <br>
 
 <div align="center" style="margin-top: 15px;">
-  <img alt="home" title="Home" src=".github/grafico2.png"/>
+  <img alt="grafico2" title="Grafico2" src=".github/grafico2.png"/>
 </div>
 
 <br>
 
 <div align="center" style="margin-top: 15px;">
-  <img alt="home" title="Home" src=".github/graficos3.png"/>
+  <img alt="grafico3" title="Grafico3" src=".github/graficos3.png"/>
 </div>
 
 <br>
